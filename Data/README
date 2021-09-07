@@ -1,0 +1,8 @@
+###These are using old database Master_List.csv	- This is where the LCP and LCP NPs were swapped 
+
+The true_test_mytrial_18.pkl is from MARCC running the same true_test.py from Clyde for 100 bags without any change
+The true_test_reproduce.pkl is from my laptop running the same true_test.py from Clyde 100 bags without any change
+
+####In the new database I have corrected the LCP and LCO NP error -  Master_List_LCPLCP.csv
+
+All the pkl files that has "L" are based on new database
